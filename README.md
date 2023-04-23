@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Mi primer repositorio del modulo 2 del PrepCourse de Henry
+Este es un proyecto de prueba de como crear un repositorio y colnarlo desde github a mi escritorio local
